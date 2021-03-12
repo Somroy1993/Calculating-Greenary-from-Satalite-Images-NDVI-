@@ -1,0 +1,1 @@
+# Calculating-Greenary-from-Satalite-Images-NDVI-
